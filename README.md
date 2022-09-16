@@ -4,7 +4,7 @@
 
 > Trilha Explorer - Desafio
 
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto desafio construído do evento Next Level Week da Rocketseat.
 
 🔗[Clique aqui para acessar](https://thscarx.github.io/nlw-esports-desafio/)
 
